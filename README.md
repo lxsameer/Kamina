@@ -1,6 +1,6 @@
 # Kamina
 
-TODO: Write a gem description
+Task management software inspired by Linux Kernel CFS
 
 ## Installation
 
