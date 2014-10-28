@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+require 'bundler/setup'
+
+bundler.setup(ENV['KAMINA_ENV'] || :default)
+
+require 'kamina'
+
+Kamina::CLI.start

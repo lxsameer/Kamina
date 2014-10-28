@@ -1,4 +1,4 @@
-require "Kamina/version"
+require 'Kamina/version'
 
 module Kamina
   # Your code goes here...
