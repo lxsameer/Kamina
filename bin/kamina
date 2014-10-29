@@ -3,7 +3,7 @@
 require 'rubygems'
 require 'bundler/setup'
 
-bundler.setup(ENV['KAMINA_ENV'] || :default)
+Bundler.require(ENV['KAMINA_ENV'] || :default)
 
 require 'kamina'
 
