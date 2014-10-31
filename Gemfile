@@ -41,3 +41,8 @@ group :development, :test do
   gem 'spring'
 end
 
+
+gem 'mongoid'
+gem 'rbtree'
+gem 'sidekiq'
+gem 'sidetiq'
